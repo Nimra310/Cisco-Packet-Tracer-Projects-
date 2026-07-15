@@ -10,3 +10,8 @@ This repository contains my Cisco Packet Tracer (CCNA) practice labs.
 - Assigned IP addresses.
 - Verified connectivity between devices.
 - Built using Cisco Packet Tracer.
+- ### 2. LAN
+- Created a Local Area Network.
+- Configured IP addresses.
+- Verified connectivity between devices.
+- Built using Cisco Packet Tracer.

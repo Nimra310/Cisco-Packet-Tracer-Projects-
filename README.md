@@ -1,2 +1,12 @@
 # Cisco-Packet-Tracer-Projects-
-My cisco packet tracer lab projects including LAN, VLAN, Static Routing, DHCP and other networking.
+# Cisco Packet Tracer Projects
+
+This repository contains my Cisco Packet Tracer (CCNA) practice labs.
+
+## Projects
+
+### 1. Peer-to-Peer Network
+- Configured a basic peer-to-peer network.
+- Assigned IP addresses.
+- Verified connectivity between devices.
+- Built using Cisco Packet Tracer.

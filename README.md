@@ -15,3 +15,8 @@ This repository contains my Cisco Packet Tracer (CCNA) practice labs.
 - Configured IP addresses.
 - Verified connectivity between devices.
 - Built using Cisco Packet Tracer.
+### 3. VLAN Configuration
+- Configured VLANs on a Cisco switch.
+- Connected multiple PCs to different VLANs.
+- Tested communication between devices.
+- Built using Cisco Packet Tracer.
